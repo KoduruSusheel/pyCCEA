@@ -8,8 +8,7 @@ https://www.kaggle.com/datasets/abdulhasibuddin/uc-merced-land-use-dataset
 LC25000
 https://www.kaggle.com/datasets/javaidahmadwani/lc25000/data
 
-STEP BY STEP PROCESS:
-**Open the Team 19 python project zip,inside it open the Team 19 python project folder,then open the python sem project folder in vscode and then continue....
+
 Note (Run the steps in order)
 1) Unzip datasets into data/ using the provided script
 
@@ -56,4 +55,3 @@ When prompted, choose the dataset number:
    3: LC25000 (data/lung_colon_image_set)
 
 That's it.
-Thankyou sir.
